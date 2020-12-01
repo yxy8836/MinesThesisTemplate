@@ -1,4 +1,4 @@
-# Colorado Schoolf of Mines Thesis Template
+# Colorado School of Mines Thesis Template
 #### A latex template for theses and dissertations at _Colorado School of Mines_.
 
 #### See an _example_ of the compiled result: [View PDF](mines-thesis-template.pdf)
